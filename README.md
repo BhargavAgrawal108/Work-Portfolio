@@ -77,3 +77,23 @@ CALCULATE(
     COUNTROWS('Sales'),
     FILTER('Sales', WEEKDAY('Sales'[Date], 2) >= 6)
 )
+
+## About Me  
+
+Hey! I’m **Bhargav Agrawal** — a Finance professional by education and a data storyteller by passion.  
+I love exploring how numbers can narrate business performance and guide smarter decisions.  
+
+Currently working in **Financial Planning & Analysis (FP&A)**, I blend my finance background (B.Com, M.Com) with analytics tools like **Power BI**, **Excel**, and **DAX** to simplify complex data into meaningful insights.  
+
+I also manage my own personal investments and have a keen interest in topics like **retirement planning**, **insurance**, and **wealth growth** — blending finance with real-life strategy.  
+Outside of finance and dashboards, you’ll find me experimenting in the **kitchen** 🍳 — cooking is my creative escape!  
+
+---
+
+## Connect With Me  
+
+💼 **LinkedIn:** [[linkedin.com/in/bhargavagrawal](https://www.linkedin.com/in/bhargav-agrawal-6b60b01a1/)](https://www.linkedin.com/in/bhargavagrawal)  
+📧 **Email:** bhargav108108@gmail.com  
+---
+
+✨ *Thanks for stopping by! I’m always open to collaborations, analytics discussions, and new learning opportunities.*
