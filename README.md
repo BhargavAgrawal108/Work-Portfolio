@@ -6,7 +6,7 @@ I love exploring how numbers can narrate business performance and guide smarter 
 Currently working in **Financial Planning & Analysis (FP&A)**, I blend my finance background (B.Com, M.Com) with analytics tools like **Power BI**, **Excel**, and **DAX** to simplify complex data into meaningful insights.  
 
 I also manage my own personal investments and have a keen interest in topics like **retirement planning**, **insurance**, and **wealth growth** — blending finance with real-life strategy.  
-Outside of finance and dashboards, you’ll find me experimenting in the **kitchen** 🍳 — cooking is my creative escape!  
+Outside of finance and dashboards, you’ll find me experimenting in the **kitchen**  — cooking is my creative escape!  
 
 ---
 # Work-Portfolio
@@ -74,6 +74,13 @@ The dataset follows a **Star Schema**:
 
 ---
 
+## Connect With Me  
+
+ **LinkedIn:**  - https://www.linkedin.com/in/bhargav-agrawal-6b60b01a1/  
+ **Email:** - Bhargav108108@gmail.com
+
+ 
+
 ## Key Measures (Examples)
 ```DAX
 Total Revenue = SUM('Sales'[Revenue])
@@ -90,3 +97,4 @@ CALCULATE(
 )
 ---
 
+✨ *Thanks for stopping by! I’m always open to collaborations, analytics discussions, and new learning opportunities.*
