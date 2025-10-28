@@ -77,6 +77,7 @@ CALCULATE(
     COUNTROWS('Sales'),
     FILTER('Sales', WEEKDAY('Sales'[Date], 2) >= 6)
 )
+---
 
 ## About Me  
 
