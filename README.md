@@ -79,7 +79,9 @@ The dataset follows a **Star Schema**:
  **LinkedIn:**  - https://www.linkedin.com/in/bhargav-agrawal-6b60b01a1/  
  **Email:** - Bhargav108108@gmail.com
 
+ ---
  
+✨ *Thanks for stopping by! I’m always open to collaborations, analytics discussions, and new learning opportunities.*
 
 ## Key Measures (Examples)
 ```DAX
@@ -96,5 +98,3 @@ CALCULATE(
     FILTER('Sales', WEEKDAY('Sales'[Date], 2) >= 6)
 )
 ---
-
-✨ *Thanks for stopping by! I’m always open to collaborations, analytics discussions, and new learning opportunities.*
