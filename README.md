@@ -42,6 +42,10 @@ It provides a 360° view of key business metrics — revenue, profit, returns, a
 
 ---
 
+## Dashboard Screenshot
+
+---
+
 ## Tools & Technologies
 - **Power BI Desktop**
 - **Power Query Editor** (for data transformation)
