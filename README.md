@@ -61,7 +61,7 @@ It provides a 360° view of key business metrics — revenue, profit, returns, a
 
 https://github.com/BhargavAgrawal108/Work-Portfolio/blob/main/Screenshots/Project%20-%20Retail%20store%20snip.png?raw=true
 
-https://github.com/BhargavAgrawal108/Work-Portfolio/blob/main/Screenshots/Project%202.png
+https://github.com/BhargavAgrawal108/Work-Portfolio/blob/main/Screenshots/Project%202.png?raw=true
 
 ---
 
