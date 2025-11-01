@@ -12,7 +12,7 @@ Outside of finance and dashboards, you’ll find me experimenting in the **kitch
 #  Buy This**
 **https://bhargav108.gumroad.com/l/cahdh**
 
-https://bhargav108.gumroad.com/l/qqpee
+**https://bhargav108.gumroad.com/l/qqpee**
 ---
 
 # Work-Portfolio
