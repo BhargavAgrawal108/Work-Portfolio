@@ -9,10 +9,11 @@ I also manage my own personal investments and have a keen interest in topics lik
 Outside of finance and dashboards, you’ll find me experimenting in the **kitchen**  — cooking is my creative escape!  
 
 ---
-#  Buy This**
-**https://bhargav108.gumroad.com/l/cahdh**
+#  Buy This
+https://bhargav108.gumroad.com/l/cahdh
 
-**https://bhargav108.gumroad.com/l/qqpee**
+https://bhargav108.gumroad.com/l/qqpee
+
 ---
 
 # Work-Portfolio
